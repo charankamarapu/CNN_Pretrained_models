@@ -1,2 +1,2 @@
 # CNN_Pretrained_models
-for Cats and dogs data look in dataset
+Download train and test dataset from kaggle and merge into a folder 
